@@ -37,5 +37,5 @@ jobs:
           git add .
           git commit -m "Auto update playlist" || echo "No changes"
           
-          # Explicitly passes the authenticated write token to the push command
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@://github.com{{ github.repository }}.git HEAD:main --force
+          # Simplified push command using the native origin remote
+          git push origin main --force
