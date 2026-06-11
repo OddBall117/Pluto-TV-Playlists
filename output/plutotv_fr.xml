@@ -2236,6 +2236,11 @@
         <desc>Un policier infiltré dans un cartel de drogue doit jongler entre loyauté et devoir alors qu’il tente de démanteler l’organisation.</desc>
         <icon src="https://images.pluto.tv/series/67a333d09a098f00146e55d7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="62f3e2d000418d00070f7dbc" start="20260611060707 +0000" stop="20260611075607 +0000">
+        <title>Iceman</title>
+        <desc>1620, He Ying a pour mission d'apporter une machine pour voyager dans le temps à son empereur. Il est attaqué sont ensevelis sous une avalanche. He Ying et Sao se réveillent quatre siècles plus tard et poursuivre leur affrontement.</desc>
+        <icon src="https://images.pluto.tv/series/638868121fad0c0013d33d57/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="62f3ece7b09fd6000783bfb9" start="20260611012035 +0000" stop="20260611014435 +0000">
         <title>Un Gars Une Fille: Dans la cuisine /  Sur leur terrasse /  Dans leur salon (1)</title>
         <desc>Dans la cuisine /  Sur leur terrasse /  Dans leur salon (1)</desc>
@@ -20303,6 +20308,11 @@ Nous suivons Damien du Conservatoire d’Espaces Naturels des Hauts-de-France.</
         <title>1998 FIFA World Cup</title>
         <desc>Watch the full match replay from the match between the Netherlands and Argentina played at Stade Vélodrome, Marseille on Saturday, July 4, 1998.</desc>
         <icon src="https://images.pluto.tv/series/67b36b9396446070bd3d092f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="660c2a2d2433010008df7e92" start="20260611173200 +0000" stop="20260611181400 +0000">
+        <title>The Greatest Game</title>
+        <desc>The FIFA eWorld Cup 2019 semifinal is considered one of the best FIFA games ever.</desc>
+        <icon src="https://images.pluto.tv/series/67c20f8dd37970ebe6bf82c1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="66c45b36a72e7b0008a2b291" start="20260611130000 +0000" stop="20260611140000 +0000">
         <title>Top stories from CNN</title>
