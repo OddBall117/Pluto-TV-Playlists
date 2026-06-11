@@ -10511,6 +10511,16 @@
         <desc>A countdown of rally co-drivers surviving broken intercoms and mid-stage mechanical failures.</desc>
         <icon src="https://images.pluto.tv/series/69f321854c1064447f6df23f/tile_1777541510806.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="696e02423b9ce349c90edef9" start="20260611055900 +0000" stop="20260611060700 +0000">
+        <title>World Rally Championship</title>
+        <desc>A countdown of rally co-drivers surviving broken intercoms and mid-stage mechanical failures.</desc>
+        <icon src="https://images.pluto.tv/series/69f321854c1064447f6df23f/tile_1777541510806.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="696e02423b9ce349c90edef9" start="20260611060700 +0000" stop="20260611065300 +0000">
+        <title>FIA World Rally Championship</title>
+        <desc>Stage 19 of the Safari Rally Kenya 2026.</desc>
+        <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1772539544824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="696e02423b9ce349c90edef9" start="20260611060700 +0000" stop="20260611065300 +0000">
         <title>FIA World Rally Championship</title>
         <desc>Stage 19 of the Safari Rally Kenya 2026.</desc>
@@ -10521,9 +10531,24 @@
         <desc>As the M-Sport season concludes, focus shifts to securing drivers for next year. Adrien Fourmaux ponders his future and Gregoire Munster pushes hard to keep his car on the track.</desc>
         <icon src="https://images.pluto.tv/series/69a6ce984b1996b7d1334b2a/tile_1772539544875.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="696e02423b9ce349c90edef9" start="20260611065300 +0000" stop="20260611073300 +0000">
+        <title>WRC: More Than Machine</title>
+        <desc>As the M-Sport season concludes, focus shifts to securing drivers for next year. Adrien Fourmaux ponders his future and Gregoire Munster pushes hard to keep his car on the track.</desc>
+        <icon src="https://images.pluto.tv/series/69a6ce984b1996b7d1334b2a/tile_1772539544875.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="696e02423b9ce349c90edef9" start="20260611073300 +0000" stop="20260611091600 +0000">
         <title>FIA World Rally Championship</title>
         <desc>Stage 20 of the Safari Rally Kenya 2026.</desc>
+        <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1772539544824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="696e02423b9ce349c90edef9" start="20260611073300 +0000" stop="20260611091600 +0000">
+        <title>FIA World Rally Championship</title>
+        <desc>Stage 20 of the Safari Rally Kenya 2026.</desc>
+        <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1772539544824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="696e02423b9ce349c90edef9" start="20260611091600 +0000" stop="20260611101700 +0000">
+        <title>FIA World Rally Championship</title>
+        <desc>Relive the highlights of the FIA World Rally Championship, with summaries and analysis of the various stages of the competition.</desc>
         <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1772539544824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="696e02423b9ce349c90edef9" start="20260611091600 +0000" stop="20260611101700 +0000">
@@ -15292,20 +15317,10 @@
 Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Cocinar con Nikki / Prueba de hermanas / Tour por la casa de Barbie</desc>
         <icon src="https://images.pluto.tv/series/6930031882bb361505fd2a13/tile_1764754201707.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="688892172928933015abe479" start="20260611122231 +0000" stop="20260611124427 +0000">
-        <title>Barbie: Vlogger</title>
-        <desc>Incluye episodios: Mi audición / Moda de primavera / Language Desafío / Desafío de comida para bebés / Tutorial de maquillaje de cómic / Poder y empoderamiento / Reto de los susurros con Ken / Reto de los susurros con Harper / Mannequin Challenge</desc>
-        <icon src="https://images.pluto.tv/series/6930031882bb361505fd2a13/tile_1764754201707.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="688892172928933015abe479" start="20260611124427 +0000" stop="20260611130734 +0000">
-        <title>Barbie: Vlogger</title>
-        <desc>Episodios:  Tutorial de maquillaje arcoíris / Cambio de look del dormitorio / Las emociones / La amistad de Barbie y Ken / Receta de tarta de limón</desc>
-        <icon src="https://images.pluto.tv/series/6930031882bb361505fd2a13/tile_1764754201707.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="688892172928933015abe479" start="20260611130734 +0000" stop="20260611132527 +0000">
-        <title>Barbie Dream Vacation, Ultimate Dream Vacation</title>
-        <desc>Barbie y sus amigas viven la aventura definitiva en un viaje lleno de sol, amistad y diversión. Entre playas, fiestas y nuevos retos, descubrirán que las mejores vacaciones son las que se comparten con quienes más quieres.</desc>
-        <icon src="https://images.pluto.tv/series/6931495863142c96a9a3eab4/tile_1764837721869.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="688892172928933015abe479" start="20260611122231 +0000" stop="20260611132527 +0000">
+        <title>Barbie &amp; Friends</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/688892172928933015abe479/featuredImage_1765806030713.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="688892172928933015abe479" start="20260611132527 +0000" stop="20260611134956 +0000">
         <title>Barbie: Vlogger</title>
@@ -20199,7 +20214,22 @@ sobrevivir a las duras condiciones.</desc>
         <desc>Relive the highlights of the FIA World Rally Championship, with summaries and analysis of the various stages of the competition.</desc>
         <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1772539544824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="696e02423b9ce349c90edef9" start="20260611133500 +0000" stop="20260611144100 +0000">
+        <title>FIA World Rally Championship</title>
+        <desc>Relive the highlights of the FIA World Rally Championship, with summaries and analysis of the various stages of the competition.</desc>
+        <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1772539544824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="696e02423b9ce349c90edef9" start="20260611144100 +0000" stop="20260611144400 +0000">
+        <title>FIA World Rally Championship</title>
+        <desc>Relive the highlights of the FIA World Rally Championship, with summaries and analysis of the various stages of the competition.</desc>
+        <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1772539544824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="696e02423b9ce349c90edef9" start="20260611144100 +0000" stop="20260611144400 +0000">
+        <title>FIA World Rally Championship</title>
+        <desc>Relive the highlights of the FIA World Rally Championship, with summaries and analysis of the various stages of the competition.</desc>
+        <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1772539544824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="696e02423b9ce349c90edef9" start="20260611144400 +0000" stop="20260611155300 +0000">
         <title>FIA World Rally Championship</title>
         <desc>Relive the highlights of the FIA World Rally Championship, with summaries and analysis of the various stages of the competition.</desc>
         <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1772539544824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
@@ -20214,6 +20244,16 @@ sobrevivir a las duras condiciones.</desc>
         <desc>Croatia provided a lot of action and drama, perfectly fitting to a final round of the season. Catch up with all the highlights from an epic asphalt finale near Zagreb.</desc>
         <icon src="https://images.pluto.tv/series/69aeb8c06d7de5ca36a5aed0/tile_1773058241097.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="696e02423b9ce349c90edef9" start="20260611155300 +0000" stop="20260611162300 +0000">
+        <title>FIA European Rally Championship Highlights</title>
+        <desc>Croatia provided a lot of action and drama, perfectly fitting to a final round of the season. Catch up with all the highlights from an epic asphalt finale near Zagreb.</desc>
+        <icon src="https://images.pluto.tv/series/69aeb8c06d7de5ca36a5aed0/tile_1773058241097.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="696e02423b9ce349c90edef9" start="20260611162300 +0000" stop="20260611172200 +0000">
+        <title>FIA World Rally Championship</title>
+        <desc>Relive the highlights of the FIA World Rally Championship, with summaries and analysis of the various stages of the competition.</desc>
+        <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1772539544824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="696e02423b9ce349c90edef9" start="20260611162300 +0000" stop="20260611172200 +0000">
         <title>FIA World Rally Championship</title>
         <desc>Relive the highlights of the FIA World Rally Championship, with summaries and analysis of the various stages of the competition.</desc>
@@ -20223,6 +20263,16 @@ sobrevivir a las duras condiciones.</desc>
         <title>World Rally Championship</title>
         <desc>A countdown of rally co-drivers surviving broken intercoms and mid-stage mechanical failures.</desc>
         <icon src="https://images.pluto.tv/series/69f321854c1064447f6df23f/tile_1777541510806.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="696e02423b9ce349c90edef9" start="20260611172200 +0000" stop="20260611173000 +0000">
+        <title>World Rally Championship</title>
+        <desc>A countdown of rally co-drivers surviving broken intercoms and mid-stage mechanical failures.</desc>
+        <icon src="https://images.pluto.tv/series/69f321854c1064447f6df23f/tile_1777541510806.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="696e02423b9ce349c90edef9" start="20260611173000 +0000" stop="20260611183500 +0000">
+        <title>FIA World Rally Championship</title>
+        <desc>Stage six of the Safari Rally Kenya 2026.</desc>
+        <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1772539544824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="696e02423b9ce349c90edef9" start="20260611173000 +0000" stop="20260611183500 +0000">
         <title>FIA World Rally Championship</title>
@@ -26074,6 +26124,11 @@ sobrevivir a las duras condiciones.</desc>
         <desc>Ben y George aprovechan la nueva ley y deciden casarse. De vuelta de la luna de miel, debido al revuelo mediático que generó su matrimonio, despiden a George de su puesto como director del coro de una escuela católica mixta.</desc>
         <icon src="https://images.pluto.tv/series/60d0437628f1d30013ed3c12/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f1ac9a2d3611d0007a844bb" start="20260612015456 +0000" stop="20260612032256 +0000">
+        <title>4 Wedding Planners</title>
+        <desc>Miriam, una mujer que adora a su familia y tiene una agencia de organización de bodas, ayudará a su hija mayor a recuperarse tras una ruptura bastante difícil.</desc>
+        <icon src="https://images.pluto.tv/series/5f4948c061f1b1001afec842/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f6a38eaa5b68b0007a00e7a" start="20260611202442 +0000" stop="20260611222842 +0000">
         <title>Gundala</title>
         <desc>El superhéroe del cómic más destacado de Indonesia y su alter ego Sancaka entran en el universo cinematográfico para luchar contra el malvado Pengkor.</desc>
@@ -27263,6 +27318,11 @@ sobrevivir a las duras condiciones.</desc>
         <title>El pastor de las colinas</title>
         <desc>Un misterioso desconocido llega a las montañas de Missouri y entabla amistad con una joven local, para desgracia del prometido de ella, que invierte su tiempo en encontrar a su propio padre para matarlo.</desc>
         <icon src="https://images.pluto.tv/series/695b8a38262748e85832d212/tile_1767606841379.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6385e82900ab2e000768a058" start="20260612013803 +0000" stop="20260612030722 +0000">
+        <title>El discípulo del diablo</title>
+        <desc>Durante la Guerra de Independencia de los Estados Unidos (1775-1783), en la que los colonos de Nueva Inglaterra se sublevaron contra la metrópoli, surgió una estrecha amistad entre un colono americano y un pastor protestante inglés.</desc>
+        <icon src="https://images.pluto.tv/series/695b984ab80a4827e029aa51/tile_1767610579372.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="63d7a8e5a9957100086bfc23" start="20260611211620 +0000" stop="20260611214020 +0000">
         <title>South Park VOSE: Los minusválidos van al infierno</title>
@@ -29919,22 +29979,7 @@ sobrevivir a las duras condiciones.</desc>
         <desc>Relive the highlights of the FIA World Rally Championship, with summaries and analysis of the various stages of the competition.</desc>
         <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1772539544824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="696e02423b9ce349c90edef9" start="20260611222200 +0000" stop="20260611232400 +0000">
-        <title>FIA World Rally Championship</title>
-        <desc>Relive the highlights of the FIA World Rally Championship, with summaries and analysis of the various stages of the competition.</desc>
-        <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1772539544824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
     <programme channel="696e02423b9ce349c90edef9" start="20260611232400 +0000" stop="20260611232700 +0000">
-        <title>FIA World Rally Championship</title>
-        <desc>Relive the highlights of the FIA World Rally Championship, with summaries and analysis of the various stages of the competition.</desc>
-        <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1772539544824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="696e02423b9ce349c90edef9" start="20260611232400 +0000" stop="20260611232700 +0000">
-        <title>FIA World Rally Championship</title>
-        <desc>Relive the highlights of the FIA World Rally Championship, with summaries and analysis of the various stages of the competition.</desc>
-        <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1772539544824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="696e02423b9ce349c90edef9" start="20260611232700 +0000" stop="20260612002000 +0000">
         <title>FIA World Rally Championship</title>
         <desc>Relive the highlights of the FIA World Rally Championship, with summaries and analysis of the various stages of the competition.</desc>
         <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1772539544824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
